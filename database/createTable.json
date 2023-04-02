@@ -1,0 +1,3 @@
+{
+    "mytable2": "(id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT, idade TEXT NOT NULL, email TEXT NOT NULL);"
+}
